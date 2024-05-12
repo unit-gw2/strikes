@@ -1,0 +1,45 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+
+website:
+  title: "USS"
+  favicon: "img/logo.png"
+  navbar:
+    font-size: 5rem
+    height: 150px
+    logo: img/logo.png
+    logo-alt: "logo"
+    title: "[UNIT] Strikes Service"
+    right:
+      - text: "Discord-Server:"
+        href: https://discord.gg/VBA4hbkzVY
+    tools:
+      - icon: discord
+        text: Discord-Server
+        href: https://discord.gg/VBA4hbkzVY
+    left:
+      - href: overview.qmd
+        text: Overview & Who are we?
+      - href: pricing.qmd
+        text: Pricing
+      - href: instructions.qmd
+        text: Instructions
+      - href: reviews.qmd
+        text: Reviews
+    background: "#434343"
+    # background: transparent
+    foreground: light
+
+page-footer:
+  center: "Any questions? Join our discord server and open a Ticket!"
+  background: "#434343"
+  foreground: light
+
+format:
+  html:
+    theme: [flatly, theme-light.scss]
+    css: styles.css
+
+editor: visual

@@ -1,0 +1,7 @@
+---
+css: css/index.css
+---
+
+::: {.main}
+Welcome to [UNIT]'s Strikes Service!
+:::

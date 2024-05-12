@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+
+body {
+  background-image: url('../img/sw.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.textbox {
+  background: #434343a5;
+  padding: 1rem;
+  border-radius: 10px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.callout-title-container {
+  color: #000000;
+}

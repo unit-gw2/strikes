@@ -1,0 +1,44 @@
+---
+css: css/styles.css
+---
+::: {.textbox}
+# Reviews
+
+Did you ever wonder what other people say about our services? No more, check out some reviews below! More are visible in our [#service-review](https://discord.com/channels/1088746118227165246/1090295820026396854) channel on our [discord server](https://discord.gg/VBA4hbkzVY).
+
+
+::: {.callout-tip}
+## Temple of Febe Legendary CM, 07.05.2024
+
+Super smooth and friendly! I told the team that I would keep them in touch for future contents as well (I did Febe Legendary challenge mode). Super happy with the service. Thank you guys once again, yall amazing!   EDIT: forgot to mention that i come from US server and they made it super easy to transfer to EU server, basically guided me thru the whole process. thank you again guys! 
+:::
+
+
+::: {.callout-tip}
+## Harvest Temple CM - Voidwalker, 26.01.2025
+
+Extremely fast delivery with HTCM, smooth run. I highly recommend the team 🙂
+:::
+
+::: {.callout-tip}
+## Harvest Temple CM - Voidwalker, 22.09.2023
+
+I know my stuff. These guys know it more. Legitimately the best 10 man execution I've ever seen. 
+Bonus points for the memes, too. 
+A+
+:::
+
+
+::: {.callout-tip}
+## Harvet Temple CM - All Achievements, 13.05.2023
+
+Thanks so much for the HTCM (Voidwalker+Standing Together) clear! Very fast and smooth, thank you for all the detailed explanations as well as for being so responsive! 
+:::
+
+::: {.callout-tip}
+## Harvet Temple CM - All Achievements, 02.04.2023
+
+Hey i bought the HTCM with all Achievements, good service fast run!. Thank you again ^^
+
+:::
+:::

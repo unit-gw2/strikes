@@ -1,0 +1,14 @@
+---
+css: css/styles.css
+---
+::: {.textbox}
+# Who are we?
+
+We are dedicated players of the guild [UNIT] who love playing hard content. Across our team, we have multiple thousands of succesful Harvest Temple CM kills and (already) hundreds of Temple of Febe CM kills. We like to push ourselves to the limit and enjoy playing that content. Naturally, we expanded and started to offer services for strikes.
+
+# What services can you get from us?
+
+We mostly focus on Strikes Challenge Modes, since that's what we enjoy most. Furthermore, we enjoy and fill a niche especially around the hardest strikes and associated achievements in the game: Harvest Temple and Temple of Febe. We also offer services for other strike CMs, in particular also infusion unlock services (e.g. Everbloom Infusion - EoD Strike CMs).
+
+![](img/team.jpg){fig-align="center"}
+:::
