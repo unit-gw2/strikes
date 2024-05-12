@@ -26,7 +26,7 @@ website:
       - href: pricing.qmd
         text: Pricing
       - href: instructions.qmd
-        text: Instructions
+        text: FAQ
       - href: reviews.qmd
         text: Reviews
     background: "#434343"
