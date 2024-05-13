@@ -12,8 +12,9 @@ css: css/styles.css
 
 ## Harvest Temple CM
 
-🐉 Voidwalker: 500 MC </br>
-🐉 All achievs: 800 MC
+| 🐉 Voidwalker: | 500 MC |
+|:--:|:--:|
+| 🐉 All achievs: | 800 MC |
 
 ## Everbloom Infusion Bundle
 

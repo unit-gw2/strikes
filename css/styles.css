@@ -12,10 +12,11 @@ body {
 }
 
 .textbox {
-  background: #434343a5;
+  background: #434343ce;
   padding: 1rem;
   border-radius: 10px;
   font-weight: regular;
+  line-height: 1.5em;
   color: #ffffff;
 }
 
