@@ -14,7 +14,7 @@ website:
     logo-alt: "logo"
     title: "[UNIT] Strikes Service"
     right:
-      - text: "Discord-Server:"
+      - text: "Discord-Server"
         href: https://discord.gg/VBA4hbkzVY
     tools:
       - icon: discord
