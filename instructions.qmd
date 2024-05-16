@@ -6,7 +6,7 @@ css: css/styles.css
 
 ::: {.callout-note collapse="true"}
 ## 1. For what stuff u can request us to do? 
-Any achievements related to Strike Missions, including everything from Normal Mode to Challenge Mode and individual achievements.
+Any achievements related to Strike Missions, including everything only Challenge Mode kills to individual achievements.
 :::
 
 
