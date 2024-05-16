@@ -3,5 +3,5 @@ css: css/index.css
 ---
 
 ::: {.main}
-Welcome to [UNIT]'s Strikes Service!
+Welcome! Get your Strikes done by [UNIT] 💪!
 :::
