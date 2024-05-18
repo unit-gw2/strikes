@@ -1,6 +1,10 @@
 ---
 css: css/styles.css
+format:
+  html:
+    anchor-sections: false
 ---
+
 ::: {.textbox}
 # Pricing
 ## Temple of Febe CM
@@ -20,7 +24,7 @@ css: css/styles.css
 🌸 All CMs: 1.100 MC </br>
 🌸 Without HT CM: 720 MC
 
-## EoD and Soto CM Strikes
+## EoD CM Strikes
 
 🔲 Kill: 300 MC </br>
 🔲 Title achievement: 500 MC </br>

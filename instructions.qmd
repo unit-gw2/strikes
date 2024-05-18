@@ -1,46 +1,44 @@
 ---
 css: css/styles.css
+format:
+  html:
+    anchor-sections: false
 ---
+
 ::: {.textbox}
 # FAQ
 
 ::: {.callout-note collapse="true"}
-## 1. For what stuff u can request us to do? 
-Any achievements related to Strike Missions, including everything only Challenge Mode kills to individual achievements.
+## 1. What services do you provide?
+We provide any achievements related to Strike Missions, including everything from only Challenge Mode kills to individual achievements.
 :::
 
 
 ::: {.callout-note collapse="true"}
-## 2. Which days we usually will be running?
-Thursday to Sunday at varying times between 19:30 and 23:30 CET/CEST. Exceptions are possible if those hours don't work, simply ask in [#🚀request-service](https://discord.com/channels/1088746118227165246/1090286727337345084)  
+## 2. At what days/times are you running?
+Usually we run Thursday to Sunday at varying times between 19:30 and 23:30 CET/CEST. Exceptions are possible if those hours don't work, simply ask in [#🚀request-service](https://discord.com/channels/1088746118227165246/1090286727337345084), or via DM.  
 :::
 
 ::: {.callout-note collapse="true"}
-## 3. How can you pay for your order?
-Payment is done upfront when the run starts. If multiple services are booked across different days, payment can be split per service for any given day.
-We accept payment mostly in mystic coins and antique summoning stones. Other types of payment can be discussed. The only exception is if the service is a few days in the future; in that case we ask for a 5% deposit.
+## 3. How is payment handled?
+Payment is done upfront when the run starts. If multiple services are booked across different days, payment can be split per service for any given day. The only exception is if a service is booked a few days in advance; in that case we ask for a 5% deposit. We accept payment mostly in Mystic Coins and Antique Summoning Stones, but other types of payment can also be discussed. Just ask us!
 :::
 
 ::: {.callout-note collapse="true"}
-## 4. Do you have to do anything during the sell session?
-Depends on the service. Some achievements and clears without achievement require no action, but a few achievement require to participate in some mechanics. A detailed explanation for all services is given in [#📝instructions](https://discord.com/channels/1088746118227165246/1088748251206930462) and will also be explained briefly before the service starts.
+## 4. Do I need to do anything during the sell session?
+Depends on the service. Some achievements and clears without achievement require no action. In those cases you can simply /gg once the combat starts. But there are a few achievement that require you to participate in some way. This depends on the specific achievement in question. A detailed explanation for all services is given in [#📝instructions](https://discord.com/channels/1088746118227165246/1088748251206930462) and will also be explained briefly before the service starts.
 :::
 
 ::: {.callout-note collapse="true"}
-## 5. On what servers are we providing our services?
-Services are provided on European servers only. However, depending on the regional pricing from other groups, it might be cheaper if you transfer to EU, buy our service and then transfer back to your region. A detailed explanation will be given if that is necessary.
+## 5. On what servers are you providing these services?
+Services are provided on European servers only. However, depending on the regional pricing from other groups, it might be cheaper if you transfer to EU, buy our service and then transfer back to your region. If you are interested in transfering, check out more details in [#📝instructions](https://discord.com/channels/1088746118227165246/1088748251206930462), or ask us via [#🚀request-service](https://discord.com/channels/1088746118227165246/1090286727337345084).
 :::
 
 ::: {.callout-note collapse="true"}
-## 6. **I am from NA, but Harvest Temple CM services are too expensive! What can I do**?
-You can save a good chunk of money by transfering to EU and buying our service. Even with the transfering costs, it is often cheaper than equivalent services on NA. Check the details in [#📝instructions](https://discord.com/channels/1088746118227165246/1088748251206930462) or ask us in [#🚀request-service](https://discord.com/channels/1088746118227165246/1090286727337345084) for detailed explanation 
+## 6. How do I request a service?
+You can go to [#🚀request-service](https://discord.com/channels/1088746118227165246/1090286727337345084) (a channel on our Discord server) and open a Ticket. We will then come back to answer any question, or handle scheduling as soon as possible. 
 :::
 
-::: {.callout-note collapse="true"}
-## 7. How to request a service?
-You can go to [#🚀request-service](https://discord.com/channels/1088746118227165246/1090286727337345084) and open a Ticket. We will then come back to answer any question, or handle scheduling as soon as possible. 
-:::
-
-More Questions? Ask us via Discord! ❤️
+More Questions? Simply ask us on Discord! ❤️
 
 :::

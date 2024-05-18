@@ -1,6 +1,10 @@
 ---
 css: css/styles.css
+format:
+  html:
+    anchor-sections: false
 ---
+
 ::: {.textbox}
 # Who are we?
 

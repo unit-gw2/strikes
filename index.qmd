@@ -1,5 +1,8 @@
 ---
 css: css/index.css
+format:
+  html:
+    anchor-sections: false
 ---
 
 ::: {.main}
