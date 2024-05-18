@@ -6,5 +6,5 @@ format:
 ---
 
 ::: {.main}
-Welcome! Get your Strikes done by [UNIT] 💪!
+Get your Strikes done by [UNIT]! ![](img/logo.png)
 :::

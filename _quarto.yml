@@ -5,7 +5,7 @@ project:
     - "*.qmd"
 
 website:
-  title: "USS"
+  title: "[UNIT] Strikes Service"
   favicon: "img/logo.png"
   navbar:
     font-size: 5rem
