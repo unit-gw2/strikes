@@ -26,9 +26,9 @@ format:
 
 ## EoD CM Strikes
 
-{{< fa play >}}  Kill: 300 MC </br>
-{{< fa play >}}  Title achievement: 500 MC </br>
-{{< fa play >}}  All achievements: 700 MC
+ {{< fa play >}} Kill: 300 MC </br>
+ {{< fa play >}} Title achievement: 500 MC </br>
+ {{< fa play >}} All achievements: 700 MC
 
 For any other specific achievement request, please contact with us!
 
