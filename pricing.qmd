@@ -32,7 +32,7 @@ format:
 
 For any other specific achievement request, please contact with us!
 
-We are open for negotiations ✅ => Contact us via Ticket on our Discord Server!
+We are open for negotiations ✅ {{< fa arrow-right >}} Contact us via Ticket on our Discord Server!
 
 If you are interested in multiple orders, ask for a discount ✅
 :::
