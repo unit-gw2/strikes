@@ -14,5 +14,5 @@ We are dedicated players of the guild [UNIT] who love playing hard content. Acro
 
 We mostly focus on Strikes Challenge Modes, since that's what we enjoy most. Furthermore, we enjoy and fill a niche especially around the hardest strikes and associated achievements in the game: Harvest Temple and Temple of Febe. We also offer services for other strike CMs, in particular also infusion unlock services (e.g. Everbloom Infusion - EoD Strike CMs).
 
-![](img/team.jpg){fig-align="center" .lightbox}
+![](img/team){fig-align="center" .lightbox}
 :::
