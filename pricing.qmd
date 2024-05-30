@@ -24,7 +24,7 @@ format:
 🌸 All CMs: 1.100 MC </br>
 🌸 Without HT CM: 720 MC
 
-## EoD CM Strikes
+## EoD and SoTO CM Strikes
 
  &nbsp; {{< fa play >}} &nbsp;Kill: 300 MC </br>
  &nbsp; {{< fa play >}} &nbsp;Title achievement: 500 MC </br>
