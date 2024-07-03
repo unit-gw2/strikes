@@ -9,9 +9,9 @@ format:
 # Pricing
 ## Temple of Febe CM
 
-👹 CM: 2.000 MC </br>
-👹 Possession Infusion unlock: 2.000 MC (unlocked by killing CM) </br>
-👹 Legendary CM: 7.500 MC </br>
+👹 CM: 750 MC </br>
+👹 Possession Infusion unlock: 750 MC (unlocked by killing CM) </br>
+👹 Legendary CM: 3.000 MC </br>
 👹 Apathetic/Embodiment of Sin: _not yet available_
 
 ## Harvest Temple CM
